@@ -20,3 +20,5 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 commit 1
 
 commit 2
+
+commit 3
